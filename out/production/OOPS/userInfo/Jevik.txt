@@ -1,0 +1,9 @@
+Name: jevik
+Phone Number: 9409735868
+Email Address: bejvik
+Location: 701,jalaram jyot , rajkot
+Password: j3
+Spykar,Relaxed Jeans,3,28
+Spykar,Skinny Jeans,1,28
+Spykar,Relaxed Jeans,1,28
+Spykar,Skinny Jeans,3,30

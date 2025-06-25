@@ -1,0 +1,14 @@
+Brand,Type,Size,Quantity,Price per Item,Total PriceBrand,Type,Size,Quantity,Price per Item,Total Price
+Spykar,Relaxed Jeans,28,1,1700.00,1700.00
+Spykar,Skinny Jeans,28,2,1500.00,4700.00
+Spykar,Regular Jeans,28,1,1400.00,6100.00
+TotalPrice: 6100.0Brand,Type,Size,Quantity,Price per Item,Total Price
+Spykar,Relaxed Jeans,28,10,1700.00,17000.00
+Spykar,Skinny Jeans,28,10,1500.00,15000.00
+TotalPrice: 32000.0Brand,Type,Size,Quantity,Price per Item,Total Price
+Spykar,Relaxed Jeans,28,10,1700.00,17000.00
+Spykar,Skinny Jeans,28,10,1500.00,15000.00
+TotalPrice: 32000.0Brand,Type,Size,Quantity,Price per Item,Total Price
+Spykar,Relaxed Jeans,28,10,1700.00,17000.00
+Spykar,Skinny Jeans,30,10,1500.00,15000.00
+TotalPrice: 32000.0
