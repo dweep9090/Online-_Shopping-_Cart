@@ -98,7 +98,6 @@ public class Cart {
                 bw.write("TotalPrice: "+totalPrice);
 
                 bw.close();
-                System.out.println("Bill is in the bill folder.");
                 System.out.println("Thank you for shopping!");
             } catch (IOException e) {
                 System.out.println("Error occurred while generating bill: " + e.getMessage());
